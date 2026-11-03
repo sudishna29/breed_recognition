@@ -106,3 +106,4 @@ The model achieves:
 - The dataset currently contains 5 breeds with 1 image each, augmented to 45 samples per breed
 - For production use, more images per breed should be collected
 - The model is trained on the available dataset and can be extended to more breeds
+# breed_recognition
